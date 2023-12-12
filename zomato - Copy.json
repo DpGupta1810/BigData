@@ -1,0 +1,1815 @@
+﻿{
+    "RestaurantID": 6317637,
+    "Res_identify": "Le 6317637",
+    "CountryCode": 162,
+    "City": "Makati City",
+    "Cuisines": "French, Japanese, Desserts",
+    "Has_Table_booking": "Yes",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 3,
+    "Votes": 314,
+    "Average_Cost_for_two": 1100,
+    "Rating": 4.8
+  }
+  {
+    "RestaurantID": 6304287,
+    "Res_identify": "Iza6304287",
+    "CountryCode": 162,
+    "City": "Makati City",
+    "Cuisines": "Japanese",
+    "Has_Table_booking": "Yes",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 3,
+    "Votes": 591,
+    "Average_Cost_for_two": 1200,
+    "Rating": 4.5
+  }
+  {
+    "RestaurantID": 6300002,
+    "Res_identify": "Hea6300002",
+    "CountryCode": 162,
+    "City": "Mandaluyong City",
+    "Cuisines": "Seafood, Asian, Filipino, Indian",
+    "Has_Table_booking": "Yes",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 270,
+    "Average_Cost_for_two": 4000,
+    "Rating": 4.4
+  }
+  {
+    "RestaurantID": 6318506,
+    "Res_identify": "Oom6318506",
+    "CountryCode": 162,
+    "City": "Mandaluyong City",
+    "Cuisines": "Japanese, Sushi",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 365,
+    "Average_Cost_for_two": 1500,
+    "Rating": 4.9
+  }
+  {
+    "RestaurantID": 6314302,
+    "Res_identify": "Sam6314302",
+    "CountryCode": 162,
+    "City": "Mandaluyong City",
+    "Cuisines": "Japanese, Korean",
+    "Has_Table_booking": "Yes",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 229,
+    "Average_Cost_for_two": 1500,
+    "Rating": 4.8
+  }
+  {
+    "RestaurantID": 18189371,
+    "Res_identify": "Din18189371",
+    "CountryCode": 162,
+    "City": "Mandaluyong City",
+    "Cuisines": "Chinese",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 3,
+    "Votes": 336,
+    "Average_Cost_for_two": 1000,
+    "Rating": 4.4
+  }
+  {
+    "RestaurantID": 6300781,
+    "Res_identify": "Buf6300781",
+    "CountryCode": 162,
+    "City": "Pasay City",
+    "Cuisines": "Asian, European",
+    "Has_Table_booking": "Yes",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 520,
+    "Average_Cost_for_two": 2000,
+    "Rating": 4
+  }
+  {
+    "RestaurantID": 6301290,
+    "Res_identify": "Vik6301290",
+    "CountryCode": 162,
+    "City": "Pasay City",
+    "Cuisines": "Seafood, Filipino, Asian, European",
+    "Has_Table_booking": "Yes",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 677,
+    "Average_Cost_for_two": 2000,
+    "Rating": 4.2
+  }
+  {
+    "RestaurantID": 6300010,
+    "Res_identify": "Spi6300010",
+    "CountryCode": 162,
+    "City": "Pasay City",
+    "Cuisines": "European, Asian, Indian",
+    "Has_Table_booking": "Yes",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 621,
+    "Average_Cost_for_two": 6000,
+    "Rating": 4.9
+  }
+  {
+    "RestaurantID": 6314987,
+    "Res_identify": "Loc6314987",
+    "CountryCode": 162,
+    "City": "Pasig City",
+    "Cuisines": "Filipino",
+    "Has_Table_booking": "Yes",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 3,
+    "Votes": 532,
+    "Average_Cost_for_two": 1100,
+    "Rating": 4.8
+  }
+  {
+    "RestaurantID": 6309903,
+    "Res_identify": "Sil6309903",
+    "CountryCode": 162,
+    "City": "Pasig City",
+    "Cuisines": "Filipino, Mexican",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 3,
+    "Votes": 1070,
+    "Average_Cost_for_two": 800,
+    "Rating": 4.9
+  }
+  {
+    "RestaurantID": 6309455,
+    "Res_identify": "Mad6309455",
+    "CountryCode": 162,
+    "City": "Pasig City",
+    "Cuisines": "American, Ice Cream, Desserts",
+    "Has_Table_booking": "Yes",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 3,
+    "Votes": 488,
+    "Average_Cost_for_two": 900,
+    "Rating": 4.2
+  }
+  {
+    "RestaurantID": 6318433,
+    "Res_identify": "Sil6318433",
+    "CountryCode": 162,
+    "City": "Quezon City",
+    "Cuisines": "Filipino, Mexican",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 3,
+    "Votes": 294,
+    "Average_Cost_for_two": 800,
+    "Rating": 4.8
+  }
+  {
+    "RestaurantID": 6310470,
+    "Res_identify": "Gue6310470",
+    "CountryCode": 162,
+    "City": "San Juan City",
+    "Cuisines": "Filipino",
+    "Has_Table_booking": "Yes",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 3,
+    "Votes": 458,
+    "Average_Cost_for_two": 1000,
+    "Rating": 4.2
+  }
+  {
+    "RestaurantID": 6314605,
+    "Res_identify": "Sod6314605",
+    "CountryCode": 162,
+    "City": "San Juan City",
+    "Cuisines": "Korean",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 3,
+    "Votes": 223,
+    "Average_Cost_for_two": 700,
+    "Rating": 4.3
+  }
+  {
+    "RestaurantID": 18185059,
+    "Res_identify": "Caf18185059",
+    "CountryCode": 162,
+    "City": "Santa Rosa",
+    "Cuisines": "Cafe, American, Italian, Filipino",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 3,
+    "Votes": 29,
+    "Average_Cost_for_two": 800,
+    "Rating": 3.6
+  }
+  {
+    "RestaurantID": 18182702,
+    "Res_identify": "Non18182702",
+    "CountryCode": 162,
+    "City": "Santa Rosa",
+    "Cuisines": "Italian, Pizza",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 3,
+    "Votes": 72,
+    "Average_Cost_for_two": 850,
+    "Rating": 4
+  }
+  {
+    "RestaurantID": 6318213,
+    "Res_identify": "Bal6318213",
+    "CountryCode": 162,
+    "City": "Tagaytay City",
+    "Cuisines": "Filipino",
+    "Has_Table_booking": "Yes",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 3,
+    "Votes": 211,
+    "Average_Cost_for_two": 1200,
+    "Rating": 4.5
+  }
+  {
+    "RestaurantID": 18255654,
+    "Res_identify": "Hob18255654",
+    "CountryCode": 162,
+    "City": "Taguig City",
+    "Cuisines": "Cafe, Korean, Desserts",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 2,
+    "Votes": 118,
+    "Average_Cost_for_two": 600,
+    "Rating": 4.5
+  }
+  {
+    "RestaurantID": 6308205,
+    "Res_identify": "Wil6308205",
+    "CountryCode": 162,
+    "City": "Taguig City",
+    "Cuisines": "Cafe, Bakery, American, Italian",
+    "Has_Table_booking": "Yes",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 392,
+    "Average_Cost_for_two": 1500,
+    "Rating": 4.4
+  }
+  {
+    "RestaurantID": 6315438,
+    "Res_identify": "NIU6315438",
+    "CountryCode": 162,
+    "City": "Taguig City",
+    "Cuisines": "Seafood, American, Mediterranean, Japanese",
+    "Has_Table_booking": "Yes",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 535,
+    "Average_Cost_for_two": 3000,
+    "Rating": 4.7
+  }
+  {
+    "RestaurantID": 6310406,
+    "Res_identify": "The6310406",
+    "CountryCode": 162,
+    "City": "Taguig City",
+    "Cuisines": "American, Asian, Italian, Seafood",
+    "Has_Table_booking": "Yes",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 618,
+    "Average_Cost_for_two": 1800,
+    "Rating": 4.5
+  }
+  {
+    "RestaurantID": 6600681,
+    "Res_identify": "Che6600681",
+    "CountryCode": 30,
+    "City": "Brasi lia",
+    "Cuisines": "Fast Food, French",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 2,
+    "Votes": 6,
+    "Average_Cost_for_two": 55,
+    "Rating": 3
+  }
+  {
+    "RestaurantID": 6601005,
+    "Res_identify": "Caf6601005",
+    "CountryCode": 30,
+    "City": "Brasi lia",
+    "Cuisines": "Cafe",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 1,
+    "Votes": 9,
+    "Average_Cost_for_two": 30,
+    "Rating": 3.8
+  }
+  {
+    "RestaurantID": 6600292,
+    "Res_identify": "Cas6600292",
+    "CountryCode": 30,
+    "City": "Brasi lia",
+    "Cuisines": "Bakery",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 2,
+    "Votes": 11,
+    "Average_Cost_for_two": 45,
+    "Rating": 3.7
+  }
+  {
+    "RestaurantID": 6600441,
+    "Res_identify": "Mao6600441",
+    "CountryCode": 30,
+    "City": "Brasi lia",
+    "Cuisines": "Brazilian",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 3,
+    "Votes": 11,
+    "Average_Cost_for_two": 60,
+    "Rating": 3.8
+  }
+  {
+    "RestaurantID": 6600970,
+    "Res_identify": "Piz6600970",
+    "CountryCode": 30,
+    "City": "Brasi lia",
+    "Cuisines": "Pizza",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 2,
+    "Votes": 11,
+    "Average_Cost_for_two": 50,
+    "Rating": 3.2
+  }
+  {
+    "RestaurantID": 6600379,
+    "Res_identify": "Sus6600379",
+    "CountryCode": 30,
+    "City": "Brasi lia",
+    "Cuisines": "Japanese",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 3,
+    "Votes": 10,
+    "Average_Cost_for_two": 80,
+    "Rating": 3.1
+  }
+  {
+    "RestaurantID": 6600214,
+    "Res_identify": "Bei6600214",
+    "CountryCode": 30,
+    "City": "Brasi lia",
+    "Cuisines": "Arabian",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 3,
+    "Votes": 8,
+    "Average_Cost_for_two": 90,
+    "Rating": 3.7
+  }
+  {
+    "RestaurantID": 6601218,
+    "Res_identify": "New6601218",
+    "CountryCode": 30,
+    "City": "Brasi lia",
+    "Cuisines": "Japanese",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 5,
+    "Average_Cost_for_two": 200,
+    "Rating": 3.7
+  }
+  {
+    "RestaurantID": 6600060,
+    "Res_identify": "San6600060",
+    "CountryCode": 30,
+    "City": "Brasi lia",
+    "Cuisines": "Brazilian, Cafe",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 1,
+    "Votes": 2,
+    "Average_Cost_for_two": 30,
+    "Rating": 1
+  }
+  {
+    "RestaurantID": 6600083,
+    "Res_identify": "Vil6600083",
+    "CountryCode": 30,
+    "City": "Brasi lia",
+    "Cuisines": "Italian",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 12,
+    "Average_Cost_for_two": 150,
+    "Rating": 4.1
+  }
+  {
+    "RestaurantID": 6601515,
+    "Res_identify": "Rov6601515",
+    "CountryCode": 30,
+    "City": "Brasi lia",
+    "Cuisines": "Pizza",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 9,
+    "Average_Cost_for_two": 100,
+    "Rating": 3.1
+  }
+  {
+    "RestaurantID": 6601361,
+    "Res_identify": "Bue6601361",
+    "CountryCode": 30,
+    "City": "Brasi lia",
+    "Cuisines": "Bar Food, Brazilian",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 3,
+    "Votes": 9,
+    "Average_Cost_for_two": 60,
+    "Rating": 3.6
+  }
+  {
+    "RestaurantID": 6601602,
+    "Res_identify": "Tac6601602",
+    "CountryCode": 30,
+    "City": "Brasi lia",
+    "Cuisines": "Mexican, Grill",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 29,
+    "Average_Cost_for_two": 100,
+    "Rating": 4.3
+  }
+  {
+    "RestaurantID": 6601589,
+    "Res_identify": "Coc6601589",
+    "CountryCode": 30,
+    "City": "Brasi lia",
+    "Cuisines": "International",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 17,
+    "Average_Cost_for_two": 230,
+    "Rating": 4.2
+  }
+  {
+    "RestaurantID": 6601862,
+    "Res_identify": "Tay6601862",
+    "CountryCode": 30,
+    "City": "Brasi lia",
+    "Cuisines": "Peruvian, Latin American",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 5,
+    "Average_Cost_for_two": 100,
+    "Rating": 3.6
+  }
+  {
+    "RestaurantID": 6601595,
+    "Res_identify": "Out6601595",
+    "CountryCode": 30,
+    "City": "Brasi lia",
+    "Cuisines": "American, Grill",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 10,
+    "Average_Cost_for_two": 150,
+    "Rating": 4
+  }
+  {
+    "RestaurantID": 6601158,
+    "Res_identify": "Man6601158",
+    "CountryCode": 30,
+    "City": "Brasi lia",
+    "Cuisines": "Seafood",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 6,
+    "Average_Cost_for_two": 240,
+    "Rating": 3.2
+  }
+  {
+    "RestaurantID": 6600427,
+    "Res_identify": "Coc6600427",
+    "CountryCode": 30,
+    "City": "Brasi lia",
+    "Cuisines": "International",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 30,
+    "Average_Cost_for_two": 230,
+    "Rating": 4.9
+  }
+  {
+    "RestaurantID": 6600116,
+    "Res_identify": "Ger6600116",
+    "CountryCode": 30,
+    "City": "Brasi lia",
+    "Cuisines": "Italian",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 8,
+    "Average_Cost_for_two": 350,
+    "Rating": 3.3
+  }
+  {
+    "RestaurantID": 6601457,
+    "Res_identify": "Bra6601457",
+    "CountryCode": 30,
+    "City": "Brasi lia",
+    "Cuisines": "American, Burger",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 2,
+    "Votes": 9,
+    "Average_Cost_for_two": 50,
+    "Rating": 3.6
+  }
+  {
+    "RestaurantID": 7303219,
+    "Res_identify": "Pes7303219",
+    "CountryCode": 30,
+    "City": "Rio de Janeiro",
+    "Cuisines": "Seafood, Bar Food, Brazilian",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 7,
+    "Average_Cost_for_two": 140,
+    "Rating": 4
+  }
+  {
+    "RestaurantID": 7304307,
+    "Res_identify": "Con7304307",
+    "CountryCode": 30,
+    "City": "Rio de Janeiro",
+    "Cuisines": "Desserts, Cafe",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 29,
+    "Average_Cost_for_two": 100,
+    "Rating": 4.8
+  }
+  {
+    "RestaurantID": 7301215,
+    "Res_identify": "Bib7301215",
+    "CountryCode": 30,
+    "City": "Rio de Janeiro",
+    "Cuisines": "Juices, Healthy Food",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 3,
+    "Votes": 24,
+    "Average_Cost_for_two": 60,
+    "Rating": 4.7
+  }
+  {
+    "RestaurantID": 7300596,
+    "Res_identify": "Cer7300596",
+    "CountryCode": 30,
+    "City": "Rio de Janeiro",
+    "Cuisines": "Beverages, Bar Food, Fast Food",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 3,
+    "Votes": 29,
+    "Average_Cost_for_two": 90,
+    "Rating": 4.5
+  }
+  {
+    "RestaurantID": 7300612,
+    "Res_identify": "Ami7300612",
+    "CountryCode": 30,
+    "City": "Rio de Janeiro",
+    "Cuisines": "Lebanese",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 11,
+    "Average_Cost_for_two": 170,
+    "Rating": 4.2
+  }
+  {
+    "RestaurantID": 7300704,
+    "Res_identify": "TT 7300704",
+    "CountryCode": 30,
+    "City": "Rio de Janeiro",
+    "Cuisines": "Burger",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 3,
+    "Votes": 19,
+    "Average_Cost_for_two": 60,
+    "Rating": 4.8
+  }
+  {
+    "RestaurantID": 7300955,
+    "Res_identify": "Bra7300955",
+    "CountryCode": 30,
+    "City": "Rio de Janeiro",
+    "Cuisines": "Brazilian, Bar Food",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 40,
+    "Average_Cost_for_two": 100,
+    "Rating": 4.9
+  }
+  {
+    "RestaurantID": 7300521,
+    "Res_identify": "Bal7300521",
+    "CountryCode": 30,
+    "City": "Rio de Janeiro",
+    "Cuisines": "Brazilian, Healthy Food, Juices, Pizza",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 3,
+    "Votes": 21,
+    "Average_Cost_for_two": 90,
+    "Rating": 4.6
+  }
+  {
+    "RestaurantID": 7300515,
+    "Res_identify": "Gar7300515",
+    "CountryCode": 30,
+    "City": "Rio de Janeiro",
+    "Cuisines": "Brazilian, Bar Food",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 49,
+    "Average_Cost_for_two": 120,
+    "Rating": 4.9
+  }
+  {
+    "RestaurantID": 7300483,
+    "Res_identify": "Zaz7300483",
+    "CountryCode": 30,
+    "City": "Rio de Janeiro",
+    "Cuisines": "Brazilian",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 21,
+    "Average_Cost_for_two": 170,
+    "Rating": 4.6
+  }
+  {
+    "RestaurantID": 7301064,
+    "Res_identify": "Fil7301064",
+    "CountryCode": 30,
+    "City": "Rio de Janeiro",
+    "Cuisines": "Brazilian",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 3,
+    "Votes": 14,
+    "Average_Cost_for_two": 90,
+    "Rating": 4.3
+  }
+  {
+    "RestaurantID": 7304312,
+    "Res_identify": "D.O7304312",
+    "CountryCode": 30,
+    "City": "Rio de Janeiro",
+    "Cuisines": "Italian",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 5,
+    "Average_Cost_for_two": 150,
+    "Rating": 4
+  }
+  {
+    "RestaurantID": 7300004,
+    "Res_identify": "Sus7300004",
+    "CountryCode": 30,
+    "City": "Rio de Janeiro",
+    "Cuisines": "Japanese",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 25,
+    "Average_Cost_for_two": 250,
+    "Rating": 4.6
+  }
+  {
+    "RestaurantID": 7300868,
+    "Res_identify": "Tal7300868",
+    "CountryCode": 30,
+    "City": "Rio de Janeiro",
+    "Cuisines": "Bakery, Sandwich, Brazilian",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 13,
+    "Average_Cost_for_two": 120,
+    "Rating": 4.4
+  }
+  {
+    "RestaurantID": 7302637,
+    "Res_identify": "Lem7302637",
+    "CountryCode": 30,
+    "City": "Rio de Janeiro",
+    "Cuisines": "Brazilian",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 2,
+    "Votes": 7,
+    "Average_Cost_for_two": 40,
+    "Rating": 4.2
+  }
+  {
+    "RestaurantID": 7302140,
+    "Res_identify": "Shi7302140",
+    "CountryCode": 30,
+    "City": "Rio de Janeiro",
+    "Cuisines": "Brazilian, Seafood",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 8,
+    "Average_Cost_for_two": 250,
+    "Rating": 4.2
+  }
+  {
+    "RestaurantID": 7305048,
+    "Res_identify": "Qui7305048",
+    "CountryCode": 30,
+    "City": "Rio de Janeiro",
+    "Cuisines": "Bar Food, Brazilian",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 3,
+    "Votes": 1,
+    "Average_Cost_for_two": 70,
+    "Rating": 1
+  }
+  {
+    "RestaurantID": 7302898,
+    "Res_identify": "Apr7302898",
+    "CountryCode": 30,
+    "City": "Rio de Janeiro",
+    "Cuisines": "Brazilian",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 44,
+    "Average_Cost_for_two": 300,
+    "Rating": 4.7
+  }
+  {
+    "RestaurantID": 7302859,
+    "Res_identify": "Aco7302859",
+    "CountryCode": 30,
+    "City": "Rio de Janeiro",
+    "Cuisines": "Brazilian, Bar Food",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 3,
+    "Votes": 24,
+    "Average_Cost_for_two": 85,
+    "Rating": 4.6
+  }
+  {
+    "RestaurantID": 7301700,
+    "Res_identify": "Gar7301700",
+    "CountryCode": 30,
+    "City": "Rio de Janeiro",
+    "Cuisines": "Brazilian, Bar Food",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 3,
+    "Votes": 10,
+    "Average_Cost_for_two": 80,
+    "Rating": 4.3
+  }
+  {
+    "RestaurantID": 6706313,
+    "Res_identify": "Can6706313",
+    "CountryCode": 30,
+    "City": "Sao Paulo",
+    "Cuisines": "Italian, Pizza",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 49,
+    "Average_Cost_for_two": 250,
+    "Rating": 4.5
+  }
+  {
+    "RestaurantID": 6704326,
+    "Res_identify": "Tem6704326",
+    "CountryCode": 30,
+    "City": "Sao Paulo",
+    "Cuisines": "Steak, BBQ",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 17,
+    "Average_Cost_for_two": 250,
+    "Rating": 4.4
+  }
+  {
+    "RestaurantID": 6711179,
+    "Res_identify": "Gop6711179",
+    "CountryCode": 30,
+    "City": "Sao Paulo",
+    "Cuisines": "Indian",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 3,
+    "Votes": 5,
+    "Average_Cost_for_two": 70,
+    "Rating": 3.1
+  }
+  {
+    "RestaurantID": 6702797,
+    "Res_identify": "Jiq6702797",
+    "CountryCode": 30,
+    "City": "Sao Paulo",
+    "Cuisines": "Brazilian",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 15,
+    "Average_Cost_for_two": 100,
+    "Rating": 4.1
+  }
+  {
+    "RestaurantID": 6700475,
+    "Res_identify": "Sky6700475",
+    "CountryCode": 30,
+    "City": "Sao Paulo",
+    "Cuisines": "Beverages, International",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 59,
+    "Average_Cost_for_two": 300,
+    "Rating": 4.8
+  }
+  {
+    "RestaurantID": 6713413,
+    "Res_identify": "Les6713413",
+    "CountryCode": 30,
+    "City": "Sao Paulo",
+    "Cuisines": "French, Brazilian, Beverages",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 30,
+    "Average_Cost_for_two": 120,
+    "Rating": 4.6
+  }
+  {
+    "RestaurantID": 6714340,
+    "Res_identify": "Red6714340",
+    "CountryCode": 30,
+    "City": "Sao Paulo",
+    "Cuisines": "Brazilian, Grill",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 3,
+    "Votes": 5,
+    "Average_Cost_for_two": 75,
+    "Rating": 3.9
+  }
+  {
+    "RestaurantID": 6710645,
+    "Res_identify": "Can6710645",
+    "CountryCode": 30,
+    "City": "Sao Paulo",
+    "Cuisines": "Brazilian",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 2,
+    "Votes": 0,
+    "Average_Cost_for_two": 55,
+    "Rating": 1
+  }
+  {
+    "RestaurantID": 6700402,
+    "Res_identify": "Par6700402",
+    "CountryCode": 30,
+    "City": "Sao Paulo",
+    "Cuisines": "French",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 73,
+    "Average_Cost_for_two": 200,
+    "Rating": 3.4
+  }
+  {
+    "RestaurantID": 6700846,
+    "Res_identify": "Kaw6700846",
+    "CountryCode": 30,
+    "City": "Sao Paulo",
+    "Cuisines": "Sushi, Japanese",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 9,
+    "Average_Cost_for_two": 120,
+    "Rating": 3.5
+  }
+  {
+    "RestaurantID": 6702159,
+    "Res_identify": "A F6702159",
+    "CountryCode": 30,
+    "City": "Sao Paulo",
+    "Cuisines": "BBQ, Grill, Brazilian",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 39,
+    "Average_Cost_for_two": 300,
+    "Rating": 4.3
+  }
+  {
+    "RestaurantID": 6711666,
+    "Res_identify": "Kin6711666",
+    "CountryCode": 30,
+    "City": "Sao Paulo",
+    "Cuisines": "Sushi",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 12,
+    "Average_Cost_for_two": 230,
+    "Rating": 3.9
+  }
+  {
+    "RestaurantID": 6701257,
+    "Res_identify": "Mea6701257",
+    "CountryCode": 30,
+    "City": "Sao Paulo",
+    "Cuisines": "Gourmet Fast Food, Burger",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 68,
+    "Average_Cost_for_two": 120,
+    "Rating": 4.3
+  }
+  {
+    "RestaurantID": 6706211,
+    "Res_identify": "Par6706211",
+    "CountryCode": 30,
+    "City": "Sao Paulo",
+    "Cuisines": "Brazilian, Italian",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 46,
+    "Average_Cost_for_two": 150,
+    "Rating": 4.3
+  }
+  {
+    "RestaurantID": 6705858,
+    "Res_identify": "Ter6705858",
+    "CountryCode": 30,
+    "City": "Sao Paulo",
+    "Cuisines": "Italian",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 37,
+    "Average_Cost_for_two": 400,
+    "Rating": 4.4
+  }
+  {
+    "RestaurantID": 6701419,
+    "Res_identify": "Div6701419",
+    "CountryCode": 30,
+    "City": "Sao Paulo",
+    "Cuisines": "Brazilian, Mineira",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 3,
+    "Votes": 2,
+    "Average_Cost_for_two": 65,
+    "Rating": 1
+  }
+  {
+    "RestaurantID": 6703956,
+    "Res_identify": "Sup6703956",
+    "CountryCode": 30,
+    "City": "Sao Paulo",
+    "Cuisines": "Brazilian",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 2,
+    "Votes": 2,
+    "Average_Cost_for_two": 50,
+    "Rating": 1
+  }
+  {
+    "RestaurantID": 6709580,
+    "Res_identify": "Esq6709580",
+    "CountryCode": 30,
+    "City": "Sao Paulo",
+    "Cuisines": "Brazilian, North Eastern",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 22,
+    "Average_Cost_for_two": 100,
+    "Rating": 4.4
+  }
+  {
+    "RestaurantID": 6703176,
+    "Res_identify": "Vel6703176",
+    "CountryCode": 30,
+    "City": "Sao Paulo",
+    "Cuisines": "Brazilian, Bar Food, Beverages",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 3,
+    "Votes": 58,
+    "Average_Cost_for_two": 70,
+    "Rating": 4.6
+  }
+  {
+    "RestaurantID": 6713772,
+    "Res_identify": "Sai6713772",
+    "CountryCode": 30,
+    "City": "Sao Paulo",
+    "Cuisines": "Lebanese, Arabian",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 11,
+    "Average_Cost_for_two": 120,
+    "Rating": 4.1
+  }
+  {
+    "RestaurantID": 17284404,
+    "Res_identify": "Aus17284404",
+    "CountryCode": 216,
+    "City": "Albany",
+    "Cuisines": "BBQ, Burger, Seafood",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 2,
+    "Votes": 35,
+    "Average_Cost_for_two": 25,
+    "Rating": 3.3
+  }
+  {
+    "RestaurantID": 17284203,
+    "Res_identify": "BJ'17284203",
+    "CountryCode": 216,
+    "City": "Albany",
+    "Cuisines": "American, BBQ",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 1,
+    "Votes": 25,
+    "Average_Cost_for_two": 10,
+    "Rating": 3.3
+  }
+  {
+    "RestaurantID": 17284105,
+    "Res_identify": "Coo17284105",
+    "CountryCode": 216,
+    "City": "Albany",
+    "Cuisines": "",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 1,
+    "Votes": 34,
+    "Average_Cost_for_two": 0,
+    "Rating": 3.4
+  }
+  {
+    "RestaurantID": 17284302,
+    "Res_identify": "El 17284302",
+    "CountryCode": 216,
+    "City": "Albany",
+    "Cuisines": "Mexican",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 1,
+    "Votes": 45,
+    "Average_Cost_for_two": 0,
+    "Rating": 3.4
+  }
+  {
+    "RestaurantID": 17284397,
+    "Res_identify": "Ele17284397",
+    "CountryCode": 216,
+    "City": "Albany",
+    "Cuisines": "Coffee and Tea, Sandwich",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 1,
+    "Votes": 26,
+    "Average_Cost_for_two": 10,
+    "Rating": 3.4
+  }
+  {
+    "RestaurantID": 17284211,
+    "Res_identify": "Pea17284211",
+    "CountryCode": 216,
+    "City": "Albany",
+    "Cuisines": "",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 1,
+    "Votes": 36,
+    "Average_Cost_for_two": 0,
+    "Rating": 3.4
+  }
+  {
+    "RestaurantID": 17284094,
+    "Res_identify": "Chi17284094",
+    "CountryCode": 216,
+    "City": "Albany",
+    "Cuisines": "Fast Food",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 1,
+    "Votes": 67,
+    "Average_Cost_for_two": 10,
+    "Rating": 3.5
+  }
+  {
+    "RestaurantID": 17284409,
+    "Res_identify": "Gua17284409",
+    "CountryCode": 216,
+    "City": "Albany",
+    "Cuisines": "Asian, Chinese, Vegetarian",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 1,
+    "Votes": 141,
+    "Average_Cost_for_two": 10,
+    "Rating": 3.9
+  }
+  {
+    "RestaurantID": 17284139,
+    "Res_identify": "Har17284139",
+    "CountryCode": 216,
+    "City": "Albany",
+    "Cuisines": "Pizza, Bar Food, Sandwich",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 2,
+    "Votes": 147,
+    "Average_Cost_for_two": 25,
+    "Rating": 3.7
+  }
+  {
+    "RestaurantID": 17284403,
+    "Res_identify": "Hen17284403",
+    "CountryCode": 216,
+    "City": "Albany",
+    "Cuisines": "Steak, Tapas, Bar Food",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 4,
+    "Votes": 51,
+    "Average_Cost_for_two": 70,
+    "Rating": 3.5
+  }
+  {
+    "RestaurantID": 17284145,
+    "Res_identify": "Hon17284145",
+    "CountryCode": 216,
+    "City": "Albany",
+    "Cuisines": "Chinese, Seafood, Vegetarian",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 2,
+    "Votes": 88,
+    "Average_Cost_for_two": 25,
+    "Rating": 3.6
+  }
+  {
+    "RestaurantID": 17284150,
+    "Res_identify": "Hou17284150",
+    "CountryCode": 216,
+    "City": "Albany",
+    "Cuisines": "Chinese",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 1,
+    "Votes": 153,
+    "Average_Cost_for_two": 10,
+    "Rating": 3.8
+  }
+  {
+    "RestaurantID": 17284158,
+    "Res_identify": "Jim17284158",
+    "CountryCode": 216,
+    "City": "Albany",
+    "Cuisines": "",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 1,
+    "Votes": 160,
+    "Average_Cost_for_two": 10,
+    "Rating": 3.9
+  }
+  {
+    "RestaurantID": 17284175,
+    "Res_identify": "Loc17284175",
+    "CountryCode": 216,
+    "City": "Albany",
+    "Cuisines": "American, Burger, Sandwich",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 2,
+    "Votes": 57,
+    "Average_Cost_for_two": 25,
+    "Rating": 3.5
+  }
+  {
+    "RestaurantID": 17284179,
+    "Res_identify": "Lon17284179",
+    "CountryCode": 216,
+    "City": "Albany",
+    "Cuisines": "American, Steak",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 2,
+    "Votes": 58,
+    "Average_Cost_for_two": 25,
+    "Rating": 3.5
+  }
+  {
+    "RestaurantID": 17284197,
+    "Res_identify": "Mik17284197",
+    "CountryCode": 216,
+    "City": "Albany",
+    "Cuisines": "Japanese, Steak, Sushi",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 3,
+    "Votes": 115,
+    "Average_Cost_for_two": 40,
+    "Rating": 3.6
+  }
+  {
+    "RestaurantID": 17284241,
+    "Res_identify": "Sho17284241",
+    "CountryCode": 216,
+    "City": "Albany",
+    "Cuisines": "Japanese, Steak, Sushi",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 3,
+    "Votes": 51,
+    "Average_Cost_for_two": 40,
+    "Rating": 3.5
+  }
+  {
+    "RestaurantID": 17284390,
+    "Res_identify": "The17284390",
+    "CountryCode": 216,
+    "City": "Albany",
+    "Cuisines": "Seafood, Tapas, Bar Food",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 3,
+    "Votes": 250,
+    "Average_Cost_for_two": 40,
+    "Rating": 3.8
+  }
+  {
+    "RestaurantID": 17284279,
+    "Res_identify": "Vil17284279",
+    "CountryCode": 216,
+    "City": "Albany",
+    "Cuisines": "Italian, Pizza",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 1,
+    "Votes": 117,
+    "Average_Cost_for_two": 10,
+    "Rating": 3.7
+  }
+  {
+    "RestaurantID": 17284364,
+    "Res_identify": "3 S17284364",
+    "CountryCode": 216,
+    "City": "Albany",
+    "Cuisines": "American, Breakfast, Diner",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 1,
+    "Votes": 20,
+    "Average_Cost_for_two": 10,
+    "Rating": 3.4
+  }
+  {
+    "RestaurantID": 16611114,
+    "Res_identify": "Whi16611114",
+    "CountryCode": 14,
+    "City": "Armidale",
+    "Cuisines": "Bar Food, Steak",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 2,
+    "Votes": 25,
+    "Average_Cost_for_two": 20,
+    "Rating": 3.5
+  }
+  {
+    "RestaurantID": 17293281,
+    "Res_identify": "Las17293281",
+    "CountryCode": 216,
+    "City": "Athens",
+    "Cuisines": "American, Southern, Southwestern",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 3,
+    "Votes": 1821,
+    "Average_Cost_for_two": 40,
+    "Rating": 4.5
+  }
+  {
+    "RestaurantID": 17293301,
+    "Res_identify": "Mam17293301",
+    "CountryCode": 216,
+    "City": "Athens",
+    "Cuisines": "Southern",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 1,
+    "Votes": 849,
+    "Average_Cost_for_two": 10,
+    "Rating": 4.5
+  }
+  {
+    "RestaurantID": 17293409,
+    "Res_identify": "Sr.17293409",
+    "CountryCode": 216,
+    "City": "Athens",
+    "Cuisines": "Mexican",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 1,
+    "Votes": 917,
+    "Average_Cost_for_two": 10,
+    "Rating": 4.6
+  }
+  {
+    "RestaurantID": 17293163,
+    "Res_identify": "Cho17293163",
+    "CountryCode": 216,
+    "City": "Athens",
+    "Cuisines": "Japanese, Korean",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 1,
+    "Votes": 439,
+    "Average_Cost_for_two": 10,
+    "Rating": 3.9
+  }
+  {
+    "RestaurantID": 17293228,
+    "Res_identify": "The17293228",
+    "CountryCode": 216,
+    "City": "Athens",
+    "Cuisines": "Breakfast, Burger, Sandwich",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 1,
+    "Votes": 289,
+    "Average_Cost_for_two": 10,
+    "Rating": 3.7
+  }
+  {
+    "RestaurantID": 17293880,
+    "Res_identify": "Big17293880",
+    "CountryCode": 216,
+    "City": "Athens",
+    "Cuisines": "Breakfast, Sandwich",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 1,
+    "Votes": 558,
+    "Average_Cost_for_two": 10,
+    "Rating": 4.3
+  }
+  {
+    "RestaurantID": 17293169,
+    "Res_identify": "Clo17293169",
+    "CountryCode": 216,
+    "City": "Athens",
+    "Cuisines": "American, Burger, Sandwich",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 1,
+    "Votes": 613,
+    "Average_Cost_for_two": 10,
+    "Rating": 4.2
+  }
+  {
+    "RestaurantID": 17293186,
+    "Res_identify": "DeP17293186",
+    "CountryCode": 216,
+    "City": "Athens",
+    "Cuisines": "American, Italian, Pizza",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 2,
+    "Votes": 353,
+    "Average_Cost_for_two": 25,
+    "Rating": 4
+  }
+  {
+    "RestaurantID": 17293180,
+    "Res_identify": "DeP17293180",
+    "CountryCode": 216,
+    "City": "Athens",
+    "Cuisines": "American, Italian, Pizza",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 2,
+    "Votes": 387,
+    "Average_Cost_for_two": 25,
+    "Rating": 4.1
+  }
+  {
+    "RestaurantID": 17293205,
+    "Res_identify": "Fiv17293205",
+    "CountryCode": 216,
+    "City": "Athens",
+    "Cuisines": "American",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 3,
+    "Votes": 755,
+    "Average_Cost_for_two": 40,
+    "Rating": 4.3
+  }
+  {
+    "RestaurantID": 17293229,
+    "Res_identify": "Gri17293229",
+    "CountryCode": 216,
+    "City": "Athens",
+    "Cuisines": "International, Southern, Vegetarian",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 1,
+    "Votes": 800,
+    "Average_Cost_for_two": 10,
+    "Rating": 4.2
+  }
+  {
+    "RestaurantID": 17293897,
+    "Res_identify": "Ike17293897",
+    "CountryCode": 216,
+    "City": "Athens",
+    "Cuisines": "Sandwich",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 1,
+    "Votes": 350,
+    "Average_Cost_for_two": 10,
+    "Rating": 4.1
+  }
+  {
+    "RestaurantID": 17293273,
+    "Res_identify": "La 17293273",
+    "CountryCode": 216,
+    "City": "Athens",
+    "Cuisines": "Italian",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 3,
+    "Votes": 464,
+    "Average_Cost_for_two": 40,
+    "Rating": 4.1
+  }
+  {
+    "RestaurantID": 17293870,
+    "Res_identify": "Sho17293870",
+    "CountryCode": 216,
+    "City": "Athens",
+    "Cuisines": "Asian, Japanese, Sushi",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 2,
+    "Votes": 550,
+    "Average_Cost_for_two": 25,
+    "Rating": 4.2
+  }
+  {
+    "RestaurantID": 17293877,
+    "Res_identify": "Taq17293877",
+    "CountryCode": 216,
+    "City": "Athens",
+    "Cuisines": "Mexican, Spanish",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 1,
+    "Votes": 543,
+    "Average_Cost_for_two": 10,
+    "Rating": 4.1
+  }
+  {
+    "RestaurantID": 17293890,
+    "Res_identify": "The17293890",
+    "CountryCode": 216,
+    "City": "Athens",
+    "Cuisines": "International, Southern",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 3,
+    "Votes": 465,
+    "Average_Cost_for_two": 40,
+    "Rating": 4.1
+  }
+  {
+    "RestaurantID": 17293915,
+    "Res_identify": "The17293915",
+    "CountryCode": 216,
+    "City": "Athens",
+    "Cuisines": "Bar Food",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 1,
+    "Votes": 546,
+    "Average_Cost_for_two": 10,
+    "Rating": 4.4
+  }
+  {
+    "RestaurantID": 17293422,
+    "Res_identify": "Tra17293422",
+    "CountryCode": 216,
+    "City": "Athens",
+    "Cuisines": "Italian, Pizza, Sandwich",
+    "Has_Table_booking": "No",
+    "Has_Online_delivery": "No",
+    "Is_delivering_now": "No",
+    "Switch_to_order_menu": "No",
+    "Price_range": 1,
+    "Votes": 1098,
+    "Average_Cost_for_two": 10,
+    "Rating": 4.4
+  }
